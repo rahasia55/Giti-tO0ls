@@ -2,8 +2,8 @@
   {
   "visibility": "INVISIBLE",
     "upgrade_skin_enabled": false,
-  "min_version": "1.1",
-  "app_name": "ML Tools GFX",
+  "min_version": "1.2",
+  "app_name": "GT Tools",
   "dialog_title": "App under maintenance. Meanwhile, please use Skin Toolkit ML. Click update",
   "dialog_message": "aplikasi dalam perbaikan, sementara gunakan aplikasi Skin Toolkit ML, klik update",
   "button_update": "Update",
@@ -19,7 +19,7 @@
   "tiktok": "https://www.tiktok.com/@skin.tools.ml?_r=1&_t=ZS-97ijKCADkTR",
   "whatsapp": "https://chat.whatsapp.com/Eg0qUbrlzMUEAlF85vS7q9?s=cl&p=a&ilr=1&amv=0",
   "telegram": "https://youtube.com/playlist?list=PLGCMrKypV0ZfRXWwDppohOkNCEtFjRBuJ&si=0xbmM5eQ8yuPHr6F",
-  "privacy_policy": "https://putmax.blogspot.com/p/privacy-policy-2.html",
+  "privacy_policy": "https://gs-tools.blogspot.com/p/privacy-policy-gt-tools.html",
      
      "partner_apps_visible": true,
     "partner_apps": [
