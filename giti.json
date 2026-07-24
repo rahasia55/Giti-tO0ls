@@ -1,7 +1,7 @@
 [
   {
   "visibility": "INVISIBLE",
-    "upgrade_skin_enabled": true,
+    "upgrade_skin_enabled": false,
   "min_version": "1.2",
   "app_name": "GT Tools",
   "dialog_title": "App under maintenance. Meanwhile, please use Skin Toolkit ML. Click update",
